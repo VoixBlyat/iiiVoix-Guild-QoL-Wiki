@@ -23,7 +23,7 @@ Der Raid-Post ist die Nachricht vom Bot mit allen Infos zu einem Raid. Hier lies
 2. Klick im privaten Menü auf **Send feedback**.
 3. Schreib in das Nachrichtenfeld, was passiert ist und was du eigentlich erwartet hast.
 4. Wenn ein Bild hilft, klick auf **Screenshot (optional)** und wähl einen Screenshot aus. Das Bild ist freiwillig – die Beschreibung muss ausgefüllt sein.
-5. Schick den Report ab. Die Nachricht und das Bild werden privat an den Bot-Verantwortlichen geschickt.
+5. Schick den Report ab. Ich bekomme deine Nachricht und das Bild privat per DM.
 
 Die Auswahlfenster und Antworten vom Bot siehst nur du. Deine Anmeldung selbst erscheint danach in der Teilnehmerliste und ist im Kanal für die Servermitglieder sichtbar.
 
