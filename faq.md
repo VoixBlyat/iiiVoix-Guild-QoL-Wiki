@@ -1,29 +1,41 @@
 # Häufige Fragen
 
+## Was ist ein Raid-Post?
+
+Das ist der Beitrag vom Bot mit dem Raid-Titel, Termin, freien Plätzen, Teilnehmern und den Knöpfen zum An- und Abmelden. Die einzelnen Teile werden auf der Seite [Raid-Post verstehen](./raids/raid-post.md) erklärt.
+
 ## Wo finde ich kommende Raids?
 
-Mit `/raid list` bekommst du eine private Übersicht der anstehenden Raids. Öffne dort den verlinkten Kanal und such den Raid-Post.
+Gib `/raid list` ein. Der Bot schickt dir eine private Übersicht. In jedem Eintrag stehen Termin, Plätze und der Kanal. Klick auf den Kanal und such dort den Raid-Post.
 
 ## Wie melde ich mich an?
 
-Im Raid-Post **Join raid** drücken und anschließend dein Charakter-Emote wählen. Die Teilnehmerliste wird aktualisiert.
+Öffne den Raid-Post, klick auf **Join raid** und wähl dein Charakter-Emote. Danach erscheint dein Name in der Teilnehmerliste.
 
-## Kann ich mich wieder austragen?
+## Was bedeutet `3 / 6`?
 
-Ja. Im Raid-Post auf **Leave raid** drücken.
+Drei Personen sind angemeldet, insgesamt gibt es sechs Plätze. Also sind noch drei Plätze frei.
 
-## Kann ich mein Emote nachträglich ändern?
+## Kann ich mich wieder abmelden?
 
-Klar. **Change character** drücken. Deine Anmeldung bleibt bestehen.
+Ja. Im Raid-Post auf **Leave raid** klicken. Dein Platz wird wieder frei. Der Ersteller ist fest auf Slot 1 gesetzt und kann diesen Platz nicht auf diesem Weg freigeben.
+
+## Kann ich mein Emote ändern?
+
+Ja. **Change character** anklicken und ein anderes Emote wählen. Du bleibst dabei angemeldet.
 
 ## Der Raid ist voll. Gibt es eine Warteliste?
 
-Nein, es gibt aktuell keine automatische Warteliste. Frag den Organizer, ob ein Platz frei wird, oder such mit `/raid list` nach einem anderen Raid.
+Nein, es gibt keine automatische Warteliste. Frag den Organizer, ob ein Platz frei wird, oder such mit `/raid list` nach einem anderen Raid.
 
-## Welche Zeit wird angezeigt?
+## Warum finde ich den Befehl `/raid list` nicht?
 
-Die Uhrzeit im Raid-Post wird mit der Server-Zeitzone angezeigt. Wenn du unsicher bist, frag kurz im Server nach.
+Stell sicher, dass du in unserem Discord-Server bist und den Befehl vom Raid-Manager auswählst. Wenn er dort trotzdem nicht erscheint, frag die Server-Mods.
 
-## Das Formular oder ein Button funktioniert nicht.
+## Warum ist mein Raid-Post verschwunden?
 
-Probier’s noch einmal. Wenn es weiter nicht klappt, schick den Raid-Link und eine kurze Beschreibung des Problems an die Server-Mods.
+Wenn im Post ein Lösch-Timer angezeigt wurde, wird der Beitrag nach Ablauf des Timers entfernt. Das kann der Organizer starten, wenn der Raid vorbei ist.
+
+## Das Formular oder ein Knopf funktioniert nicht.
+
+Schick den Link zum Raid-Post und schreib kurz dazu, welchen Knopf du gedrückt hast und was danach passiert ist. Damit können die Server-Mods den Fehler leichter finden.
