@@ -5,16 +5,20 @@ Neben deinem Namen steht im Raid-Post ein Emote. Damit können die anderen sehen
 ## So änderst du es
 
 1. Such den Raid-Post, bei dem du schon angemeldet bist.
-2. Klick auf **Change character**.
-3. Ein privates Auswahlfenster öffnet sich. Andere sehen dieses Fenster nicht.
-4. Wähl dein Emote aus der Liste aus.
-5. Der Bot bestätigt die Änderung. Im Raid-Post steht jetzt das neue Emote neben deinem Namen.
+2. Klick auf **Change character** (Charakter ändern).
+3. Ein kleines Auswahlfenster öffnet sich. Nur du kannst es sehen.
+4. Klick auf die Liste und wähl dein Emote aus.
+5. Der Bot bestätigt dir die Änderung. Im Raid-Post steht jetzt das neue Emote neben deinem Namen.
 
 ## Dein Emote ist nicht in der Liste?
 
-1. Im Auswahlfenster auf **Enter manually** klicken.
-2. Den Emote-Code eintippen, den du verwenden möchtest.
-3. Achte auf die richtige Schreibweise und Groß-/Kleinschreibung.
-4. Das Beispiel `:CeT:` ist nur ein Beispiel – gib deinen eigenen Code ein.
+1. Klick im Auswahlfenster auf **Enter manually** (Manuell eingeben).
+2. Ein Eingabefeld öffnet sich. Tipp dort deinen Emote-Code ein.
+3. Achte genau auf die Schreibweise und Groß- und Kleinbuchstaben.
+4. Schick das Formular ab.
 
-Wenn du noch nicht für den Raid angemeldet bist, funktioniert **Change character** noch nicht. Klick zuerst auf **Join raid** und wähl dein Emote bei der Anmeldung aus.
+`:CeT:` ist nur ein Beispiel und wahrscheinlich nicht dein Emote. Gib deinen eigenen Emote-Code ein. Wenn du ihn nicht kennst, frag jemanden im Server.
+
+## Du bist noch nicht angemeldet?
+
+**Change character** funktioniert erst, wenn du schon dabei bist. Klick zuerst auf **Join raid** (Beim Raid mitmachen), wähl dein Emote und bestätige die Anmeldung.
