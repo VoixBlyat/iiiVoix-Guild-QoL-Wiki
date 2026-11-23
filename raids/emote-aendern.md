@@ -1,5 +1,7 @@
 # Charakter-Emote ändern
 
-Dein Emote passt nicht oder du hast den Charakter gewechselt? Im Raid-Post auf **Change emote** drücken und ein neues Emote auswählen.
+Im Raid-Post auf **Change character** drücken und ein neues Emote auswählen. Das geht, sobald du für den Raid angemeldet bist.
 
-Das ändert nur deine Anzeige in diesem Raid. Deine Anmeldung bleibt bestehen.
+Deine Anmeldung bleibt dabei bestehen – nur das angezeigte Emote ändert sich.
+
+Du bist noch nicht angemeldet? Drück erst auf **Join raid** und wähl dabei dein Emote aus.
