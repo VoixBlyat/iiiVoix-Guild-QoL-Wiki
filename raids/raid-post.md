@@ -1,5 +1,7 @@
 # Den Raid-Post verstehen
 
+[🇩🇪 Deutsch] · [🇬🇧 English](../en/raids/raid-post.md)
+
 Der Raid-Post ist die Nachricht vom Bot mit allen Infos zu einem Raid. Hier liest du den Termin und siehst, wer dabei ist. Über die Knöpfe kannst du dich an- oder abmelden.
 
 ## Die Infos im Post
