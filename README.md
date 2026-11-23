@@ -2,13 +2,18 @@
 
 Willkommen in der Guild QoL Wiki 👋
 
-Hier findest du kurze Antworten rund um Raids und die kleinen QoL-Funktionen auf unserem Discord. Wenn dir etwas fehlt oder eine Anleitung unklar ist, sag einfach Bescheid.
+Hier gibt’s die kurzen Anleitungen für die Raid- und QoL-Funktionen auf unserem Discord. Kein Roman, kein Admin-Kram – einfach das, was du als Member brauchst.
 
-## Schnellstart
+## Raid-Guide
 
-- [Bei einem Raid anmelden](./raids/anmelden.md)
-- [Raid erstellen](./raids/erstellen.md)
-- [Emote ändern](./raids/emote-aendern.md)
-- [Häufige Fragen](./faq.md)
+- [Einen Raid finden](./raids/finden.md)
+- [Bei einem Raid anmelden oder abmelden](./raids/anmelden.md)
+- [Einen Raid erstellen](./raids/erstellen.md)
+- [Charakter-Emote ändern](./raids/emote-aendern.md)
+- [Datum und Zeit richtig eingeben](./raids/zeiten.md)
 
-> Diese Wiki ist für Member gedacht. Einstellungen und Funktionen für Server-Admins gehören hier nicht rein.
+## Wenn etwas nicht klappt
+
+Schau in die [FAQ](./faq.md). Wenn du dort keine Antwort findest, schick den Raid-Link und kurz dazu, was passiert ist, an die Server-Mods.
+
+> Fehlt dir hier noch eine Anleitung? Sag Bescheid, dann nehmen wir sie mit auf.
