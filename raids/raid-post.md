@@ -15,7 +15,15 @@ Der Raid-Post ist die Nachricht vom Bot mit allen Infos zu einem Raid. Hier lies
 - **Join raid** (Beim Raid mitmachen): Meldet dich an. Danach musst du noch ein Charakter-Emote auswählen.
 - **Change character** (Charakter-Emote ändern): Ändert dein Emote, wenn du schon angemeldet bist.
 - **Leave raid** (Raid verlassen): Meldet dich ab. Dein Platz wird wieder frei.
-- **Options** (Optionen): Öffnet ein privates Menü. Dort kannst du Feedback zum Bot schicken. Wenn du den Raid erstellt hast, findest du hier auch die Organizer-Funktionen für deinen eigenen Raid.
+- **Options** (Optionen): Öffnet ein privates Menü. Dort findest du **Send feedback** (Feedback senden). Wenn du den Raid erstellt hast, findest du hier auch die Organizer-Funktionen für deinen eigenen Raid.
+
+## Einen Fehler mit Screenshot melden
+
+1. Klick auf **Options**.
+2. Klick im privaten Menü auf **Send feedback**.
+3. Schreib in das Nachrichtenfeld, was passiert ist und was du eigentlich erwartet hast.
+4. Wenn ein Bild hilft, klick auf **Screenshot (optional)** und wähl einen Screenshot aus. Das Bild ist freiwillig – die Beschreibung muss ausgefüllt sein.
+5. Schick den Report ab. Die Nachricht und das Bild werden privat an den Bot-Verantwortlichen geschickt.
 
 Die Auswahlfenster und Antworten vom Bot siehst nur du. Deine Anmeldung selbst erscheint danach in der Teilnehmerliste und ist im Kanal für die Servermitglieder sichtbar.
 
