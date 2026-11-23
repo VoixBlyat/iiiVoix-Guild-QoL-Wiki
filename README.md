@@ -25,4 +25,6 @@ Hier wird Schritt für Schritt erklärt, wie du die Raid-Funktionen auf unserem 
 
 Wenn etwas nicht klappt: Schau zuerst in die [FAQ](./faq.md). Wenn du dort keine Antwort findest, schick den Raid-Link und beschreib kurz, welchen Knopf du gedrückt hast und was danach passiert ist.
 
+Hast du einen GitHub-Account? Dann kannst du Bugs, Fragen oder fehlende Anleitungen auch ganz easy als [Issue eintragen](https://github.com/VoixBlyat/iiiVoix-Guild-QoL-Wiki/issues/new) :D
+
 > Fehlt dir eine Anleitung? Sag Bescheid, dann ergänzen wir sie.
