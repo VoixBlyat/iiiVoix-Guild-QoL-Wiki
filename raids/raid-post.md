@@ -1,26 +1,26 @@
 # Den Raid-Post verstehen
 
-Der Raid-Post ist die Nachricht vom Bot, in der alle wichtigen Infos stehen. Hier kannst du den Termin prüfen und dich an- oder abmelden.
+Der Raid-Post ist die Nachricht vom Bot mit allen Infos zu einem Raid. Hier liest du den Termin und siehst, wer dabei ist. Über die Knöpfe kannst du dich an- oder abmelden.
 
 ## Die Infos im Post
 
-- **Titel:** Welcher Raid geplant ist.
-- **Start:** Datum und Uhrzeit. Die angezeigte Uhrzeit folgt der Zeitzone des Bots.
-- **Slots:** Zum Beispiel `3 / 6`. Die erste Zahl sagt, wie viele Plätze belegt sind. Die zweite Zahl ist die maximale Gruppengröße.
-- **Note from the organizer:** Eine optionale Nachricht mit zusätzlichen Infos, zum Beispiel wo sich die Gruppe trifft.
-- **Participants:** Die angemeldeten Personen. Neben jedem Namen steht das gewählte Charakter-Emote.
+- **Titel:** Was gespielt wird.
+- **Start:** Datum und Uhrzeit. Wenn dort zwei Uhrzeiten stehen, ist die erste der Start und die zweite das geplante Ende.
+- **Slots:** Zum Beispiel `3 / 6`. Die erste Zahl sagt, wie viele Plätze bereits belegt sind. Die zweite Zahl ist die Gruppengröße. Bei `3 / 6` sind also noch drei Plätze frei.
+- **Note from the organizer** (Nachricht vom Organizer): Eine optionale Zusatzinfo, zum Beispiel wo sich die Gruppe trifft.
+- **Participants** (Teilnehmer): Die Personen, die schon dabei sind. Neben dem Namen steht das gewählte Charakter-Emote.
 
 ## Die Knöpfe
 
-- **Join raid:** Meldet dich an. Danach musst du noch ein Charakter-Emote auswählen.
-- **Change character:** Ändert dein Emote, wenn du schon angemeldet bist.
-- **Leave raid:** Meldet dich ab. Dein Platz wird wieder frei.
-- **Options:** Öffnet ein privates Menü. Dort kannst du dem Bot-Verantwortlichen Feedback schicken. Wenn du den Raid erstellt hast, findest du hier auch die Organizer-Funktionen für deinen eigenen Raid.
+- **Join raid** (Beim Raid mitmachen): Meldet dich an. Danach musst du noch ein Charakter-Emote auswählen.
+- **Change character** (Charakter-Emote ändern): Ändert dein Emote, wenn du schon angemeldet bist.
+- **Leave raid** (Raid verlassen): Meldet dich ab. Dein Platz wird wieder frei.
+- **Options** (Optionen): Öffnet ein privates Menü. Dort kannst du Feedback zum Bot schicken. Wenn du den Raid erstellt hast, findest du hier auch die Organizer-Funktionen für deinen eigenen Raid.
 
-Die Antworten und Auswahlfenster vom Bot sind meistens privat – nur du siehst sie. Die Anmeldung selbst steht danach in der Teilnehmerliste und ist im Kanal sichtbar.
+Die Auswahlfenster und Antworten vom Bot siehst nur du. Deine Anmeldung selbst erscheint danach in der Teilnehmerliste und ist im Kanal für die Servermitglieder sichtbar.
 
-## Ein Timer ist im Post sichtbar?
+## Im Post steht ein Lösch-Timer?
 
-Dann hat der Organizer den Raid beendet und den Lösch-Timer gestartet. Der Post zeigt an, wann er verschwindet. Wenn du noch Infos daraus brauchst, speicher sie vorher.
+Dann hat der Organizer den Timer gestartet, weil der Raid vorbei ist. Der Post zeigt an, wann er gelöscht wird. Wenn du noch Infos daraus brauchst, speicher sie vorher.
 
 Weiter geht’s hier: [Bei einem Raid anmelden](./anmelden.md).
