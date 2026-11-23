@@ -9,6 +9,8 @@ Im Post findest du Titel, Termin, Plätze, Teilnehmer und eine optionale Nachric
 - **Leave raid:** abmelden.
 - **Options:** privates Menü für Feedback; als Ersteller auch für die Verwaltung deines Raids.
 
+Deine Anmeldung erscheint in der Teilnehmerliste und ist im Kanal für Servermitglieder sichtbar.
+
 ## Fehler melden
 **Options → Send feedback** wählen und das Problem beschreiben. Ein Screenshot kann optional hinzugefügt werden. Ich bekomme den Report privat per DM.
 
