@@ -3,7 +3,7 @@
 [🇩🇪 Deutsch] · [🇬🇧 English](../en/raids/create-a-raid.md)
 
 1. Im gewünschten Textkanal `/raid create` starten und den Befehl des Bots auswählen.
-2. Formular ausfüllen und absenden. Der Bot postet den Raid und trägt dich auf Slot 1 ein.
+2. Formular ausfüllen und absenden. Der Bot postet den Raid, pingt die Raid-Rolle und trägt dich auf Slot 1 ein.
 
 - **Raid title:** Inhalt auswählen, z. B. Rosso/Berth CM.
 - **Date or Now:** `Now` für sofort oder ein Datum wie `25.12.2026`.
