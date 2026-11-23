@@ -2,42 +2,23 @@
 
 [🇩🇪 Deutsch] · [🇬🇧 English](./en/faq.md)
 
-## Was ist ein Raid-Post?
+## Wie finde ich Raids?
+Mit `/raid list` bekommst du privat eine Übersicht. Wähle dort den Kanal aus, um den Raid-Post zu öffnen. [Anleitung](./raids/finden.md)
 
-Das ist der Beitrag vom Bot mit dem Raid-Titel, Termin, freien Plätzen, Teilnehmern und den Knöpfen zum An- und Abmelden. Die einzelnen Teile werden auf der Seite [Raid-Post verstehen](./raids/raid-post.md) erklärt.
-
-## Wo finde ich kommende Raids?
-
-Gib `/raid list` ein. Der Bot schickt dir eine private Übersicht. In jedem Eintrag stehen Termin, Plätze und der Kanal. Klick auf den Kanal und such dort den Raid-Post.
-
-## Wie melde ich mich an?
-
-Öffne den Raid-Post, klick auf **Join raid** und wähl dein Charakter-Emote. Danach erscheint dein Name in der Teilnehmerliste.
+## Wie melde ich mich an oder ab?
+Im Raid-Post **Join raid** wählen und ein Charakter-Emote auswählen. Zum Abmelden **Leave raid** drücken. [Anleitung](./raids/anmelden.md)
 
 ## Was bedeutet `3 / 6`?
+Drei von sechs Plätzen sind belegt; drei sind noch frei.
 
-Drei Personen sind angemeldet, insgesamt gibt es sechs Plätze. Also sind noch drei Plätze frei.
+## Gibt es eine Warteliste?
+Nein. Ist ein Raid voll, frag den Organizer oder such mit `/raid list` einen anderen.
 
-## Kann ich mich wieder abmelden?
+## Kann ich mein Emote nachträglich ändern?
+Ja, über **Change character**. Du bleibst angemeldet. [Anleitung](./raids/emote-aendern.md)
 
-Ja. Im Raid-Post auf **Leave raid** klicken. Dein Platz wird wieder frei. Der Ersteller ist fest auf Slot 1 gesetzt und kann diesen Platz nicht auf diesem Weg freigeben.
+## Warum ist der Raid-Post weg?
+Der Organizer kann nach dem Raid einen 30-Minuten-Lösch-Timer starten.
 
-## Kann ich mein Emote ändern?
-
-Ja. **Change character** anklicken und ein anderes Emote wählen. Du bleibst dabei angemeldet.
-
-## Der Raid ist voll. Gibt es eine Warteliste?
-
-Nein, es gibt keine automatische Warteliste. Frag den Organizer, ob ein Platz frei wird, oder such mit `/raid list` nach einem anderen Raid.
-
-## Warum finde ich den Befehl `/raid list` nicht?
-
-Stell sicher, dass du in unserem Discord-Server bist und den Befehl vom Raid-Manager auswählst. Wenn er dort trotzdem nicht erscheint, frag die Server-Mods.
-
-## Warum ist mein Raid-Post verschwunden?
-
-Wenn im Post ein Lösch-Timer angezeigt wurde, wird der Beitrag nach Ablauf des Timers entfernt. Das kann der Organizer starten, wenn der Raid vorbei ist.
-
-## Wie melde ich einen Fehler mit Screenshot?
-
-Öffne im Raid-Post **Options** und wähl **Send feedback**. Beschreib im Textfeld, was passiert ist. Wenn ein Bild beim Erklären hilft, kannst du zusätzlich unter **Screenshot (optional)** ein Bild hochladen. Das Bild ist freiwillig, der Text muss ausgefüllt sein. Ich bekomme deinen Report privat per DM.
+## Wie melde ich einen Fehler?
+Im Raid-Post **Options → Send feedback** wählen und kurz beschreiben, was passiert ist. Ein Screenshot ist optional; ich bekomme den Report privat per DM.
