@@ -1,5 +1,7 @@
 # Einen Raid finden
 
+[🇩🇪 Deutsch] · [🇬🇧 English](../en/raids/find-a-raid.md)
+
 So findest du die geplanten Raids. Die Antwort auf `/raid list` ist **privat** – nur du kannst sie sehen.
 
 ## Schritt für Schritt
