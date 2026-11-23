@@ -14,6 +14,7 @@ Hier wird Schritt für Schritt erklärt, wie du die Raid-Funktionen auf unserem 
 
 ## Was möchtest du machen?
 
+- [Was kann unser QoL-Bot?](./bot-funktionen.md)
 - [Einen Raid finden](./raids/finden.md)
 - [Den Raid-Post verstehen](./raids/raid-post.md)
 - [Bei einem Raid anmelden oder abmelden](./raids/anmelden.md)
@@ -22,6 +23,6 @@ Hier wird Schritt für Schritt erklärt, wie du die Raid-Funktionen auf unserem 
 - [Datum und Uhrzeit eingeben](./raids/zeiten.md)
 - [Häufige Fragen](./faq.md)
 
-Wenn etwas nicht klappt: Schau zuerst in die [FAQ](./faq.md). Wenn du dort keine Antwort findest, schick den Raid-Link und beschreib kurz, was du gemacht hast und was dann passiert ist.
+Wenn etwas nicht klappt: Schau zuerst in die [FAQ](./faq.md). Wenn du dort keine Antwort findest, schick den Raid-Link und beschreib kurz, welchen Knopf du gedrückt hast und was danach passiert ist.
 
 > Fehlt dir eine Anleitung? Sag Bescheid, dann ergänzen wir sie.
