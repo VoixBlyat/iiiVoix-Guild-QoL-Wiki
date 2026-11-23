@@ -1,5 +1,7 @@
 # Charakter-Emote ändern
 
+[🇩🇪 Deutsch] · [🇬🇧 English](../en/raids/change-character-emote.md)
+
 Neben deinem Namen steht im Raid-Post ein Emote. Damit können die anderen sehen, mit welchem Charakter du mitkommst. Du kannst dieses Emote jederzeit ändern, ohne deine Anmeldung zu verlieren.
 
 ## So änderst du es
