@@ -3,7 +3,7 @@
 [🇩🇪 Deutsch](../../raids/erstellen.md) · 🇬🇧 English
 
 1. In the text channel you want, run `/raid create` and select the bot command.
-2. Fill in and submit the form. The bot posts the raid and puts you in Slot 1.
+2. Fill in and submit the form. The bot posts the raid, pings the raid role, and puts you in Slot 1.
 
 - **Raid title:** Choose the content, e.g. Rosso/Berth CM.
 - **Date or Now:** Enter `Now` to start now, or a date such as `25.12.2026`.
