@@ -1,5 +1,7 @@
 # Unser QoL-Bot: Was du damit machen kannst
 
+[🇩🇪 Deutsch] · [🇬🇧 English](./en/bot-features.md)
+
 Willkommen 👋 Hier steht, welche Funktionen du als Member direkt benutzen kannst. Admin-Einstellungen und Admin-Befehle lassen wir hier bewusst weg.
 
 ## Raids finden und planen
