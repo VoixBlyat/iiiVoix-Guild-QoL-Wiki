@@ -1,20 +1,28 @@
 # Häufige Fragen
 
-## Ich kann den Raid-Post nicht finden. Wo sind die Raids?
+## Wo finde ich kommende Raids?
 
-Nutz `/raid list`, um die kommenden Raids auf dem Server zu sehen.
+Mit `/raid list` bekommst du eine private Übersicht der anstehenden Raids. Öffne dort den verlinkten Kanal und such den Raid-Post.
 
-## Kann ich mich aus einem Raid wieder austragen?
+## Wie melde ich mich an?
 
-Ja. Öffne den Raid-Post und drück auf **Leave raid**.
+Im Raid-Post **Join raid** drücken und anschließend dein Charakter-Emote wählen. Die Teilnehmerliste wird aktualisiert.
 
-## Kann ich mein Emote nach der Anmeldung ändern?
+## Kann ich mich wieder austragen?
 
-Klar. Im Raid-Post **Change emote** auswählen.
+Ja. Im Raid-Post auf **Leave raid** drücken.
 
-## Der Raid ist voll. Was jetzt?
+## Kann ich mein Emote nachträglich ändern?
 
-Im Post siehst du die aktuelle Anzahl an Teilnehmern und Plätzen. Frag am besten im Server nach, ob noch ein Platz frei wird.
+Klar. **Change character** drücken. Deine Anmeldung bleibt bestehen.
+
+## Der Raid ist voll. Gibt es eine Warteliste?
+
+Nein, es gibt aktuell keine automatische Warteliste. Frag den Organizer, ob ein Platz frei wird, oder such mit `/raid list` nach einem anderen Raid.
+
+## Welche Zeit wird angezeigt?
+
+Die Uhrzeit im Raid-Post wird mit der Server-Zeitzone angezeigt. Wenn du unsicher bist, frag kurz im Server nach.
 
 ## Das Formular oder ein Button funktioniert nicht.
 
