@@ -57,12 +57,6 @@ Ein Screenshot ist freiwillig, hilft bei Fehlern aber oft weiter. Wenn du Feedba
 
 Wenn neue CoboDex-Babel-Updates kommen, kann der Bot sie automatisch im dafür vorgesehenen Server-Kanal posten. Du musst dafür nichts einstellen.
 
-## Server-Logs und Privatsphäre
-
-Wenn Logging auf dem Server eingerichtet ist, kann der Bot je nach Auswahl zum Beispiel Voice-Kanalwechsel, Nachrichtenänderungen oder -löschungen, Mitglieder-, Kanal- und Rollenänderungen sowie Moderationsaktionen protokollieren. Bestimmte Rollen können von nutzerbezogenen Logs ausgeschlossen sein.
-
-Bei einigen Verwaltungsaktionen kann der Bot zusätzlich in Discords Audit-Logs nachsehen, wer die Aktion ausgelöst hat. Das klappt nicht bei jedem Ereignis. Ereignisse, die passieren, während der Bot offline ist, werden nicht allgemein nachträglich eingetragen.
-
 ## Wenn etwas nicht klappt
 
 Schau zuerst in die [häufigen Fragen](./faq.md). Wenn du dort keine Antwort findest, schick mir über **Send feedback** eine kurze Beschreibung. Bei einem Problem mit einem bestimmten Raid hilft auch der Link zum Raid-Post.
