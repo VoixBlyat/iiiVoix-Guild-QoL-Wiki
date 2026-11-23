@@ -1,5 +1,7 @@
 # Datum und Uhrzeit eingeben
 
+[🇩🇪 Deutsch] · [🇬🇧 English](../en/raids/date-and-time.md)
+
 Beim Raid-Formular gibt es zwei Felder:
 
 - **Date or Now** heißt: Datum oder „jetzt“.
