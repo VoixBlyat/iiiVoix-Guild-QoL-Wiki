@@ -2,19 +2,21 @@
 
 Beim Raid-Formular gibt es zwei Felder:
 
-- **Date or Now:** Wann soll der Raid stattfinden?
-- **Start time:** Um wie viel Uhr geht es los?
+- **Date or Now** heißt: Datum oder „jetzt“.
+- **Start time** heißt: Uhrzeit, zu der es losgeht.
 
 ## Der Raid startet jetzt
+
+Wenn der Raid sofort losgehen soll:
 
 - **Date or Now:** `Now`
 - **Start time:** leer lassen
 
-Dann zeigt der Bot den Raid als sofort gestartet an.
+Der Bot zeigt den Raid dann als sofort gestartet an.
 
 ## Der Raid startet heute später
 
-Beispiel: Es ist gerade Nachmittag und der Raid soll heute um 20:30 Uhr losgehen.
+Beispiel: Es ist gerade Nachmittag und ihr wollt heute um 20:30 Uhr starten.
 
 - **Date or Now:** `Now`
 - **Start time:** `20:30`
@@ -25,33 +27,28 @@ Die Uhrzeit muss noch in der Zukunft liegen. Eine Uhrzeit, die heute schon vorbe
 
 Schreib das Datum als `TT.MM` oder `TT.MM.JJJJ`. Der Punkt gehört dazu.
 
-Beispiele:
+Beispiel für den 25. Dezember 2026 um 20:30 Uhr:
 
 - **Date or Now:** `25.12.2026`
 - **Start time:** `20:30`
 
-Das heißt: 25. Dezember 2026 um 20:30 Uhr.
+Du kannst das Jahr weglassen. Bei `25.12` nimmt der Bot das nächste passende Datum. Bei einem Datum musst du immer eine Uhrzeit angeben.
 
-Du kannst das Jahr weglassen:
+## Start- und Endzeit eintragen
 
-- **Date or Now:** `25.12`
-- **Start time:** `20:30`
-
-Dann nimmt der Bot das nächste passende Datum. Bei einem Datum muss immer eine Startzeit eingetragen sein.
-
-## Einen Zeitraum angeben
-
-Wenn der Start nicht auf eine feste Minute festgelegt ist, kannst du ein Zeitfenster schreiben:
+Du kannst auch beide Uhrzeiten angeben, zum Beispiel:
 
 - **Start time:** `20:30-21:00`
 
-Das bedeutet: Start zwischen 20:30 und 21:00 Uhr. Die Endzeit muss später sein als die Startzeit und am selben Tag liegen. Zum Beispiel ist `21:00-20:30` ungültig.
+Das heißt: Der Raid ist von 20:30 bis 21:00 Uhr geplant. Die erste Zeit ist der Start, die zweite das Ende. Es bedeutet **nicht**, dass der Raid irgendwann zwischen 20:30 und 21:00 beginnt.
+
+Die Endzeit muss nach der Startzeit liegen und am selben Tag sein. `21:00-20:30` ist deshalb ungültig.
 
 ## Häufige Fehler
 
 - `25/12` funktioniert nicht – nutz Punkte: `25.12`.
-- Ein Datum ohne Startzeit funktioniert nicht.
+- Ein Datum ohne Uhrzeit funktioniert nicht.
 - Vergangene Termine funktionieren nicht.
-- Schreib die Uhrzeit im 24-Stunden-Format, zum Beispiel `20:30` statt `8:30 PM`.
+- Nutze das 24-Stunden-Format: `20:30` statt `8:30 PM`.
 
 Die Uhrzeit im fertigen Raid-Post richtet sich nach der Zeitzone, die für den Bot eingestellt ist. Wenn du unsicher bist, frag kurz im Server nach.
