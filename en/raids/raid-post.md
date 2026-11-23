@@ -9,6 +9,8 @@ The post shows the title, date, slots, participants, and an optional organizer n
 - **Leave raid:** Sign out.
 - **Options:** Private feedback menu; organizers also get controls for their own raid.
 
+Your sign-up appears in the participant list and is visible to server members in the channel.
+
 ## Report a bug
 Choose **Options → Send feedback** and describe the issue. You can attach a screenshot, but it is optional. I receive the report privately by DM.
 
