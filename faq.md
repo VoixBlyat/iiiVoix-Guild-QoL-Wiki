@@ -36,6 +36,10 @@ Stell sicher, dass du in unserem Discord-Server bist und den Befehl vom Raid-Man
 
 Wenn im Post ein Lösch-Timer angezeigt wurde, wird der Beitrag nach Ablauf des Timers entfernt. Das kann der Organizer starten, wenn der Raid vorbei ist.
 
+## Wie melde ich einen Fehler mit Screenshot?
+
+Öffne im Raid-Post **Options** und wähl **Send feedback**. Beschreib im Textfeld, was passiert ist. Wenn ein Bild beim Erklären hilft, kannst du zusätzlich unter **Screenshot (optional)** ein Bild hochladen. Das Bild ist freiwillig, der Text muss ausgefüllt sein.
+
 ## Das Formular oder ein Knopf funktioniert nicht.
 
 Schick den Link zum Raid-Post und schreib kurz dazu, welchen Knopf du gedrückt hast und was danach passiert ist. Damit können die Server-Mods den Fehler leichter finden.
