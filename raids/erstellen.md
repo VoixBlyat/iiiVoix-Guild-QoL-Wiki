@@ -1,17 +1,16 @@
 # Einen Raid erstellen
 
-Mit `/raid create` öffnest du das Formular für einen neuen Raid. Titel eintragen, optionale Angaben ausfüllen und abschicken – fertig.
+Du willst selbst eine Gruppe starten? Gib `/raid create` ein und füll das Formular aus. Der fertige Raid-Post landet in dem Kanal, in dem du den Command gestartet hast.
 
-## Was kann ins Formular?
+## Die Felder
 
-- **Titel:** Worum geht’s? Zum Beispiel Doom Aporia oder Serpentium.
-- **Datum und Startzeit:** Kannst du angeben, muss aber nicht immer sein.
-- **Zeitfenster:** Zum Beispiel `20:30-21:00`.
-- **Nachricht:** Zusätzliche Infos für die Gruppe.
-- **Plätze:** Wie viele Leute gesucht werden.
+- **Raid-Titel:** Wähl den passenden Raid aus der Liste.
+- **Datum:** `Now` oder ein Datum wie `25.12` beziehungsweise `25.12.2026`.
+- **Startzeit:** Zum Beispiel `20:30`. Bei einem Datum ist eine Zeit Pflicht.
+- **Zeitfenster:** Zum Beispiel `20:30-21:00`, wenn du einen Zeitraum angeben willst.
+- **Plätze:** Zwischen 1 und 100.
+- **Nachricht:** Optional, bis zu 150 Zeichen für kurze Zusatzinfos.
 
-Wer den Raid erstellt, wird automatisch auf **Slot 1** gesetzt. Du kannst danach dein Charakter-Emote auswählen.
+Du wirst automatisch auf **Slot 1** gesetzt und kannst direkt dein Charakter-Emote auswählen. Der Raid-Post zeigt die Teilnehmer und freien Plätze.
 
-## Kommende Raids ansehen
-
-Mit `/raid list` bekommst du eine Übersicht der anstehenden Raids. Von dort kannst du den passenden Raid-Post öffnen und dich anmelden.
+Mehr Beispiele für Datum und Zeit findest du unter [Datum und Zeit richtig eingeben](./zeiten.md).
