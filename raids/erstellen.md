@@ -20,17 +20,31 @@ Du möchtest selbst eine Gruppe starten? Mit `/raid create` machst du einen neue
 - **Player slots** (Plätze): Wie viele Personen insgesamt mitkönnen. Erlaubt sind 1 bis 100. Wenn du `6` einträgst, können insgesamt sechs Personen teilnehmen – du selbst bist schon eine davon.
 - **Optional message** (Zusatzinfo): Eine kurze Nachricht an die Gruppe, zum Beispiel „Bitte vorher im Voice warten“. Das Feld ist freiwillig und darf höchstens 150 Zeichen haben.
 
-## Komplettes Beispiel
+## Komplettes Beispiel: sofort starten
 
-Du planst Doom Aporia für sechs Personen am 25. Dezember 2026 um 20:30 Uhr:
+Du möchtest jetzt direkt einen Doom-Aporia-Raid für sechs Personen starten:
 
 - **Raid title:** Doom Aporia
-- **Date or Now:** `25.12.2026`
-- **Start time:** `20:30`
+- **Date or Now:** `Now`
+- **Start time:** leer lassen
 - **Player slots:** `6`
 - **Optional message:** `Bitte vorher im Voice warten`
 
-Der Bot erstellt dann den Post. Du bist bereits die erste Person in der Gruppe; fünf weitere Plätze sind frei. Mehr Beispiele zu Datum und Uhrzeit findest du unter [Datum und Uhrzeit eingeben](./zeiten.md).
+Der Bot erstellt den Post direkt. Du bist schon auf Slot 1 eingetragen, also sind noch fünf Plätze frei.
+
+## Komplettes Beispiel: Rosso/Berth CM für acht Personen
+
+Für Rosso/Berth CM braucht eure Gruppe acht Personen insgesamt. Du planst den Raid für den 25. Dezember 2026 um 20:30 Uhr:
+
+- **Raid title:** Rosso/Berth CM
+- **Date or Now:** `25.12.2026`
+- **Start time:** `20:30`
+- **Player slots:** `8`
+- **Optional message:** `Bitte vorher im Voice warten`
+
+Der Bot erstellt den Post mit acht Plätzen. Du bist als Ersteller schon auf Slot 1 eingetragen. Es können sich also noch sieben weitere Personen anmelden.
+
+Mehr Beispiele zu Datum und Uhrzeit findest du unter [Datum und Uhrzeit eingeben](./zeiten.md).
 
 ## Kann ich den Post später ändern?
 
