@@ -1,5 +1,7 @@
 # Häufige Fragen
 
+[🇩🇪 Deutsch] · [🇬🇧 English](./en/faq.md)
+
 ## Was ist ein Raid-Post?
 
 Das ist der Beitrag vom Bot mit dem Raid-Titel, Termin, freien Plätzen, Teilnehmern und den Knöpfen zum An- und Abmelden. Die einzelnen Teile werden auf der Seite [Raid-Post verstehen](./raids/raid-post.md) erklärt.
