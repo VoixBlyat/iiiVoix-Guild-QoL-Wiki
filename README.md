@@ -1,5 +1,7 @@
 # iiiVoix – Guild QoL Wiki
 
+[🇩🇪 Deutsch] · [🇬🇧 English](./en/README.md)
+
 Willkommen 👋
 
 Hier wird Schritt für Schritt erklärt, wie du die Raid-Funktionen auf unserem Discord benutzt. Die Anleitungen sind für Member geschrieben und kommen ohne Admin-Einstellungen aus.
