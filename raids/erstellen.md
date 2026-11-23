@@ -1,5 +1,7 @@
 # Einen Raid erstellen
 
+[🇩🇪 Deutsch] · [🇬🇧 English](../en/raids/create-a-raid.md)
+
 Du möchtest selbst eine Gruppe starten? Mit `/raid create` machst du einen neuen Raid-Post. Du brauchst dafür keine besonderen Einstellungen.
 
 ## Schritt für Schritt
