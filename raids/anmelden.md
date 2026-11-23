@@ -1,5 +1,7 @@
 # Bei einem Raid anmelden
 
+[🇩🇪 Deutsch] · [🇬🇧 English](../en/raids/join-a-raid.md)
+
 Du hast einen Raid gefunden und möchtest mit? Die Anmeldung machst du direkt über die Knöpfe im Raid-Post.
 
 ## So meldest du dich an
