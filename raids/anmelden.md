@@ -1,13 +1,17 @@
 # Bei einem Raid anmelden
 
-Du hast einen Raid gefunden, bei dem du mit möchtest? Nice. Öffne den Raid-Post und drück auf **Sign up**.
+Du hast einen Raid gefunden, bei dem du mit möchtest? Nice. Öffne den Raid-Post und drück auf **Join raid**. Danach wählst du dein Charakter-Emote aus und bist dabei.
 
-Der Ersteller des Raids ist automatisch auf **Slot 1**. Die freien Plätze und die Teilnehmerliste aktualisieren sich direkt im Post.
+Im Post siehst du, wer schon angemeldet ist und wie viele Plätze noch frei sind. Die Liste aktualisiert sich automatisch.
 
 ## Wieder abmelden
 
-Wenn du doch nicht kannst, drück im Raid-Post auf **Leave raid**. Dein Platz wird dann wieder frei.
+Wenn du doch nicht kannst, drück auf **Leave raid**. Dein Platz wird dann wieder frei.
 
-## Schon angemeldet?
+## Der Raid ist voll?
 
-Deine Anmeldung bleibt am Raid hängen. Wenn du den Charakter-Emote ändern willst, nutz **Change emote**.
+Wenn keine Plätze mehr frei sind, kannst du dich nicht zusätzlich eintragen. Frag den Organizer, ob ein Platz frei wird, oder schau mit `/raid list` nach einem anderen Raid.
+
+## Emote später ändern
+
+Kein Problem – deine Anmeldung bleibt bestehen. Im Raid-Post einfach **Change character** drücken und ein anderes Emote wählen.
