@@ -66,3 +66,5 @@ Bei einigen Verwaltungsaktionen kann der Bot zusätzlich in Discords Audit-Logs 
 ## Wenn etwas nicht klappt
 
 Schau zuerst in die [häufigen Fragen](./faq.md). Wenn du dort keine Antwort findest, schick mir über **Send feedback** eine kurze Beschreibung. Bei einem Problem mit einem bestimmten Raid hilft auch der Link zum Raid-Post.
+
+Hast du einen GitHub-Account? Dann kannst du Bugs, Fragen oder fehlende Anleitungen auch ganz easy als [Issue eintragen](https://github.com/VoixBlyat/iiiVoix-Guild-QoL-Wiki/issues/new) :D
