@@ -38,4 +38,4 @@ Wenn im Post ein Lösch-Timer angezeigt wurde, wird der Beitrag nach Ablauf des 
 
 ## Wie melde ich einen Fehler mit Screenshot?
 
-Öffne im Raid-Post **Options** und wähl **Send feedback**. Beschreib im Textfeld, was passiert ist. Wenn ein Bild beim Erklären hilft, kannst du zusätzlich unter **Screenshot (optional)** ein Bild hochladen. Das Bild ist freiwillig, der Text muss ausgefüllt sein.
+Öffne im Raid-Post **Options** und wähl **Send feedback**. Beschreib im Textfeld, was passiert ist. Wenn ein Bild beim Erklären hilft, kannst du zusätzlich unter **Screenshot (optional)** ein Bild hochladen. Das Bild ist freiwillig, der Text muss ausgefüllt sein. Ich bekomme deinen Report privat per DM.
